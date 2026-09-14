@@ -28,6 +28,7 @@ This package contains the complete static dashboard in the `docs` folder. No bui
 The address will normally be:
 
 `https://YOUR-GITHUB-NAME.github.io/published-insights-dashboard/`
+`https://gryan-gtlaw.github.io/published-insights-dashboard/`
 
 ## Updating the dashboard later
 
